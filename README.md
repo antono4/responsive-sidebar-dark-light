@@ -1,4 +1,7 @@
 # Responsive Sidebar Dark & Light Mode
+
+> **Created by Antono**
+
 ## [Watch it on youtube](https://youtu.be/OxftwnqyNVI)
 ### Responsive Sidebar Dark & Light Mode
 
