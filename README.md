@@ -1,1 +1,26 @@
-Last updated: 2026-08-29 13:57:01 WIB
+# responsive-sidebar-dark-light
+
+
+
+## 📋 Overview
+
+This repository contains **20 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-29 15:50:07 WIB*
